@@ -90,3 +90,7 @@ https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
 
 #EXTINF:-1 tvg-name="CCTV4K" group-title="IPV6•央视",CCTV4K 「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="台北流行广播电台" tvg-logo="https://live.fanmingming.com/radio/popradio.png" group-title="境外广播" radio="true",POP Radio 台北流行广播电台
+http://149.129.100.78:8000/popradio
+#EXTINF:-1 tvg-id="" tvg-name="好听广播电台" tvg-logo="https://live.fanmingming.com/radio/popradio.png" group-title="境外广播" radio="true",POP Radio 好听广播电台
+http://149.129.100.78:8000/pop907
