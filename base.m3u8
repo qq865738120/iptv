@@ -113,7 +113,9 @@ http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_ke
 #EXTINF:-1 group-title="湖南",长沙影视频道
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
 
-#EXTINF:-1 group-title="网络",早教
-http://59.49.41.39/live.aishang.ctlcdn.com/00000110240334_1/playlist.m3u8?CONTENTID=00000110240334_1
-#EXTINF:-1 group-title="NewTV",NewTV超级电影
-http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="其他",五星体育
+http://cntv.sbs/live?id=wxty
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="其他",东方财经
+http://cntv.sbs/live?id=dfcj
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="其他",第一财经
+http://cntv.sbs/live?id=dycj
