@@ -132,5 +132,13 @@ http://apop.bigbradio.net/s
 http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台" radio="true",古典音乐台
 http://play.redefine.ltd/Stream2/FM1058-2.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="https://cdn-profiles.tunein.com/s110052/images/logog.png" group-title="广播电台" radio="true",CNBC
-http://tunein.streamguys1.com/cnbc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.qingting.fm/2021/0809/20210809021518.png" group-title="广播电台" radio="true",湖南音乐之声·芒果音乐台
+http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/北京经典969.png" group-title="广播电台" radio="true",北京经典969
+http://live.funhillrm.com/4/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/北京音乐广播.png" group-title="广播电台" radio="true",北京音乐广播
+http://audiolive2.rbc.cn:1935/live/fm974/96K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" group-title="广播电台" radio="true",武汉音乐广播
+http://stream.appwuhan.com/yypdzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" group-title="广播电台" radio="true",武汉青少广播·M-radio
+http://stream.appwuhan.com/sepdzb/sd/live.m3u8
