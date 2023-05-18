@@ -119,3 +119,5 @@ http://cntv.sbs/live?id=wxty
 http://cntv.sbs/live?id=dfcj
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="其他",第一财经
 http://cntv.sbs/live?id=dycj
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=bbc-news" group-title="News",BBC News
+https://cntv.sbs/abroad?id=e005
