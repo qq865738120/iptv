@@ -120,11 +120,17 @@ http://cntv.sbs/live?id=dfcj
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="其他",第一财经
 http://cntv.sbs/live?id=dycj
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="网络广播" radio="true",Big B Radio - 中文流行
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="广播电台" radio="true",Big B Radio - 中文流行
 http://cpop.bigbradio.net/s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317" group-title="网络广播" radio="true",Big B Radio - 韩语流行
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317" group-title="广播电台" radio="true",Big B Radio - 韩语流行
 http://kpop.bigbradio.net/s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135097/images/logog.png?t=158317" group-title="网络广播" radio="true",Big B Radio - 日语流行
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135097/images/logog.png?t=158317" group-title="广播电台" radio="true",Big B Radio - 日语流行
 http://jpop.bigbradio.net/s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s54185/images/logog.png?t=158645" group-title="网络广播" radio="true",Big B Radio - 亚洲流行
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s54185/images/logog.png?t=158645" group-title="广播电台" radio="true",Big B Radio - 亚洲流行
 http://apop.bigbradio.net/s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台" radio="true",电音电台
+http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台" radio="true",古典音乐台
+http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="https://cdn-profiles.tunein.com/s110052/images/logog.png" group-title="广播电台" radio="true",CNBC
+http://tunein.streamguys1.com/cnbc
