@@ -90,16 +90,6 @@ https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
 
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视4K",CCTV4K 「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视4K",CCTV4K
-http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视4K",CCTV4K
-http://moss.hk3.345888.xyz.cdn.cloudflare.net/bestv.php?id=cctv4k/15000000
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="IPV6•央视4K",CCTV16_4K 「IPV6」
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视4K",CCTV16_4K
-http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="IPV6•央视4K",CCTV1-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视",CCTV世界地理
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",CCTV风云剧场
@@ -118,10 +108,15 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="央视",CCTV文化精品
 
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="台湾",台视
-http://38.55.196.41/iptvplus.php?key=b5efbcb7c0900f7741e2547964b7b652&id=61
-#EXTINF:-1,tvg-id="BBC_News" tvg-name="BBC_News" tvg-logo="https://epg.112114.xyz/logo/BBC_NEWS.png" group-title="国际",BBC_News
-https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-
-#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其它",足球高清
-https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+#EXTINF:-1 group-title="湖南",长沙政法频道
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
+#EXTINF:-1 group-title="湖南",长沙女性频道
+https://hls.quklive.com/live/1551337800259710/index.m3u8
+#EXTINF:-1 group-title="湖南",长沙影视频道
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
+#EXTINF:-1 group-title="湖南",长沙磁浮电视
+https://hls.quklive.com/live/1551751256158751/index.m3u8
+#EXTINF:-1 group-title="湖南",长沙地铁电视
+https://hls.quklive.com/live/1551751084371710/index.m3u8
+#EXTINF:-1 group-title="湖南",长沙移动电视
+https://hls.quklive.com/live/1551750947083772/index.m3u8
