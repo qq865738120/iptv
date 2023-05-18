@@ -136,9 +136,13 @@ http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/北京经典969.png" group-title="广播电台" radio="true",北京经典969
 http://live.funhillrm.com/4/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/北京音乐广播.png" group-title="广播电台" radio="true",北京音乐广播
-http://audiolive2.rbc.cn:1935/live/fm974/96K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2017/0501/20170501063612.jpeg" group-title="广播电台" radio="true",武汉音乐广播
 http://stream.appwuhan.com/yypdzb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2015/0521/20150521164427620.png" group-title="广播电台" radio="true",武汉青少广播·M-radio
 http://stream.appwuhan.com/sepdzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙城市之声.png" group-title="音乐广播" radio="true",长沙城市之声
+http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙音乐广播.png" group-title="音乐广播" radio="true",长沙音乐广播
+http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长沙交通广播.png" group-title="音乐广播" radio="true",长沙交通广播
+http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
